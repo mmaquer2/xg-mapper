@@ -7,6 +7,9 @@
   min-height: 100vh;
 }
 
+.soccerField img {
+  transform: rotate(90deg);
+}
 .description {
   display: inherit;
   justify-content: inherit;
